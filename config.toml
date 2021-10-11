@@ -1,0 +1,93 @@
+######################## default configuration ####################
+baseURL = "https://examplesite.com"
+title = "JointheMovement"
+theme = "omega"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+[markup.goldmark.renderer]
+unsafe= true
+
+######################### navigation ##############################
+
+[[menu.main]]
+name = "Home"
+pre = ""
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+pre = "#"
+url = "mission"
+weight = 2
+
+[[menu.main]]
+name = "Products"
+pre = "#"
+url = "products"
+weight = 3
+
+[[menu.main]]
+name = "Career"
+pre = ""
+url = "career"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 5
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+logo_width = "120px"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# contact info
+contact_info = "Avenue Appia 20 <br>1211 Geneva, <br>Switzerland"
+# Preloader
+preloader = true
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDIpTmwARDtxCVD3T6l4PbA2rCmIi2JB5M"
+map_center_lat = "46.2326822" 
+map_center_lng =  "6.1349523" 
+map_position_lat = "46.2326822" 
+map_position_lng = "6.1349523"
+map_marker = "images/map-marker.png"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.facebook.com/WHO"
+
+[[params.social]]
+title = "twitter"
+icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who"
+
+[[params.social]]
+title = "instagram"
+icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.linkedin.com/company/world-health-organization/"
+
+[[params.social]]
+title = "github"
+icon = "fa-pinterest" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://za.pinterest.com/worldhealthorganization/"
+
+[[params.social]]
+title = "linkedin"
+icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.linkedin.com/company/world-health-organization/"

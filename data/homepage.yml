@@ -1,0 +1,95 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "JoinTheMovement"
+  content : "Is a Covid-19 awareness initiative, We aim to Educate the community on the importance of complying with the World Health Organisations Guidelines and Best Practises.<br>
+             Join the movement is a campaign designed to stimulate economic growth and assist with entity monetary flow restoration.<br> In light of the Coronavirus (COVID-19) outbreak,
+             we recommend checking the World Health Organizations website for the most accurate information,<br>stay updated on news about the pandemic. <br><br> 
+             We've created a series of templates to help you share the importance of complying with COVID-19 guidelines."
+  image : "images/hero-image/hero-slider-0.jpg"
+  button:
+    enable : true
+    label : "This is What WE DO"
+    link : "#Products"
+
+#################### Mission #####################
+mission:
+  enable : true
+  title : "The JoinTheMovement initiative is important"
+  section : "MISSION"
+  content : "Globally, as of 5:54pm CEST, 1 October 2021, there have been 233,503,524 confirmed cases of COVID-19, including 4,777,503 deaths, reported to World Health Organisation. <br>
+             We need to do everything possible to stop the spread of the virus in order to prevent mutations that may reduce the efficacy of existing vaccines.
+             "
+  video_thumb: "images/video-thumb.jpg"
+  video_id: "wCKPFN7i7UM"
+
+
+#################### Vission #####################
+vision:
+  enable : true
+  section : "VISION"
+  vision_item:
+  - title : "COVID-19 Transmission"
+    image : "images/vision/vision-01.jpg"
+    content : "If COVID-19 is spreading in your community, stay safe by taking some simple precautions, such as physical distancing, wearing a mask, keeping rooms well ventilated, avoiding crowds, cleaning your hands, and coughing into a bent elbow or tissue. <br><br><br>World Health Organisation"
+    
+  - title : "Getting vaccinated"
+    image : "images/vision/vision-02.jpg"
+    content : "Approved COVID-19 vaccines provide a high degree of protection against getting seriously ill and dying from the disease,
+               This is one set individual can take to better our chance of succesfully managing COVID-19"
+    
+  - title : "The World Health Organization"  
+    image : "images/vision/vision-03.jpg"
+    content : "The World Health Organization champions health and a better future for all,
+              Dedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts to give everyone, everywhere an equal chance to live a healthy life. "
+
+
+#################### product ####################
+product:
+  enable : true
+  section : "Products"
+  title : "Some Of Our Best Products and Services"
+  content : "See the innovation that has come through the JoinTheMovement Initiative. As an advancement Movement, the goal is to continuously find areas to help businesses to push forward. Below you can find the first listed products and services available to help you do so."
+  product_item:
+  - title : "Websites"
+    image : "images/product/product-03.jpg"
+    content : "Do you need a website to take you one step closer to your goals.
+               JoinTheMovement has Website developers ready to assist, get high quality websites that are mobile-responsive hosted with Google Cloud.
+               Our developers will design, develope and deploy your Website on one of the worlds best Cloud Providers Google.
+               Regardless where in the globe you live Google can provide you with a solution. 
+               Term and Conditions apply"
+    project_url : "https://docs.google.com/document/d/1hRs18weFfNEtjsxjnBSHeEID5f6s6KY2eVP3wjhqpM0/edit?usp=sharing"
+    
+  - title : "Graphic Design"
+    image : "images/product/product-041.jpg"
+    content : "Want a little oomph to attract or keep your audience engaged, 
+               We have the worlds best Graphic Designers ready to take your content to the next level.
+               logos, photo-Editing, Marketing Content and more.
+               Term and Conditions apply"
+    project_url : "https://docs.google.com/document/d/1hRs18weFfNEtjsxjnBSHeEID5f6s6KY2eVP3wjhqpM0/edit?usp=sharing"
+    
+  - title : "Video Animation"
+    image : "images/product/product-02.jpg"
+    content : "Need an award wining intro video Animation, no problem.
+               Our Video Editors are here to help you out.
+               Term and Conditions apply"
+    project_url : "https://docs.google.com/document/d/1hRs18weFfNEtjsxjnBSHeEID5f6s6KY2eVP3wjhqpM0/edit?usp=sharing"
+    
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "CONTACT The WHO"
+  title : "reach The WHO"
+  image : "images/map-bg.png"
+  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact or visit The WHO(WorldHealthOrganisation) frequently asked questions if you have a query about WHO at https://www.who.int/about/contact-us.
+             For Queries relate to the JoinThemOVEMENT Initiative email us at JoinTheMovementEnquiries@gmail.com"
+
+  
+################### call to action #################
+call_to_action:
+  enable : true
+  title : "Be apart of the JoinTheMovement family and lets get started on restoring what Covid-19 destoryed. <br>Click below to view the career opportunities we have for you."
+  button_label : "Apply Now"
+  button_link : "career"
