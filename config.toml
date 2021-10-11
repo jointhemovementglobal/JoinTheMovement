@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://jointhemovementglobal.github.io/JoinTheMovement/"
 title = "JointheMovement"
 theme = "omega"
 # google analytics
