@@ -2,6 +2,7 @@
 baseURL = "https://examplesite.com"
 title = "OMEGA"
 theme = "omega"
+publishDir= "docs"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 [markup.goldmark.renderer]
